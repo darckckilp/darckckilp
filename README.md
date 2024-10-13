@@ -21,10 +21,3 @@
     <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darckckilp&layout=compact&langs_count=7&theme=one_dark_pro"/>
   </a>
 </div>
-
-### Contact
-
-<div> 
-  <a href="mailto:nelevilp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/35uYNKRRRY"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-</div>
