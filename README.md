@@ -17,5 +17,12 @@
   <a href="https://github.com/darckckilp">
     <img height="195px" src="https://github-readme-stats.vercel.app/api?username=darckckilp&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darckckilp&layout=compact&langs_count=7&theme=one_dark_pro"/>
+
+### Contact
+
+<div> 
+  <a href="mailto:nelevilp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/35uYNKRRRY"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+</div>
   </a>
 </div>
