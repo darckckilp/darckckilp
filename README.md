@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6649AD&background=FFFFFF00&width=435&lines=hello+everyone%2C+i'm+Squid;Welcome+to+my+GitHub+profile!;I'm+a+beginner+java+developer)](https://git.io/typing-svg)
 
-<img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200">
-
 ### Technologies and tools:
 
 <div style="display: inline_block"><br>     
