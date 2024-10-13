@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6649AD&background=FFFFFF00&width=435&lines=hello+everyone%2C+i'm+Squid;Welcome+to+my+GitHub+profile!;I'm+a+beginner+java+developer)](https://git.io/typing-svg)
 
+<img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" align="right" width="200">
+
 ### Technologies and tools:
 
 <div style="display: inline_block"><br>     
@@ -25,6 +27,4 @@
 <div> 
   <a href="mailto:nelevilp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/35uYNKRRRY"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-</div>
-  </a>
 </div>
