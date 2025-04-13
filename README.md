@@ -4,7 +4,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Cris-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Cris-python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Cris-pycharm" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
   <img align="center" alt="Cris-VS" height="35" width="40" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg">
 </div><br>
 
